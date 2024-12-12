@@ -1,1 +1,8 @@
 DATA/
+*.gz
+czplib/
+*.bed
+*.zip
+mm10/
+*.tgz
+*.log
